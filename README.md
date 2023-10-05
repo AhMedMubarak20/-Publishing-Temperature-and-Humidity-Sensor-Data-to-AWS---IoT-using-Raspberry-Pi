@@ -1,0 +1,1 @@
+# -Publishing-Temperature-and-Humidity-Sensor-Data-to-AWS---IoT-using-Raspberry-Pi
